@@ -1,1 +1,1 @@
-![Alt text](http://imgur.com/a/ZW0Pi "Tip Calculator")
+![ScreenShot](http://i.imgur.com/WONRT5T.gif "Tip Calculator")
