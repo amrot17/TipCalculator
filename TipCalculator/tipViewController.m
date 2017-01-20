@@ -6,13 +6,13 @@
 //  Copyright © 2017 Y.CORP.YAHOO.COM\amrot. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "tipViewController.h"
 
-@interface ViewController ()
+@interface tipViewController ()
 
 @end
 
-@implementation ViewController
+@implementation tipViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
